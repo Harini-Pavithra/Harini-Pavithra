@@ -1,13 +1,17 @@
-Hi 👋, I'm Harini Pavithra Elangovan
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e472xcsx0rlpzhhw2tvcslftgy9kldydn55gomybw2x&ep=v1_gifs_search&rid=giphy.gif" width="100"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-pavithra-elangovan/) 
-<a href="https://github.com/Harini-Pavithra">
-  <img align="left" alt="Prabor's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<h1 align="center">Hi 👋, I'm Harini Pavithra Elangovan</h1>
+<p align="center">
+<a href="https://linkedin.com/in/harini pavithra elangovan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harini pavithra elangovan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harini_pavithra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harini_pavithra" height="30" width="40" /></a> 
+<a href="https://github.com/Harini-Pavithra"><img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a></p>
 
+# 💫 About Me:
 🔭 I’m currently working on Reference Design Toolkit<br>👯 I’m looking to collaborate on Innovative Open Source Projects<br>🤝 I’m looking for help with Algorithmic thinking<br>🌱 I’m currently learning AI and DSA<br>💬 Ask me about Reference Design Toolkit, Thunder services<br>📫 How to reach me: Connect with me on LinkedIn<br>😄 Pronouns: She/Her<br>⚡ Fun fact: Law of attraction believer
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Harini-Pavithra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
