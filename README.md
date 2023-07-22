@@ -14,7 +14,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Harini-Pavithra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harini-Pavithra&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img align="left" src = "https://github-readme-stats.vercel.app/api?username=Harini-Pavithra&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&" alt = "My github stats" />
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harini-Pavithra&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini-Pavithra&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -23,4 +24,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harini-Pavithra)
-
