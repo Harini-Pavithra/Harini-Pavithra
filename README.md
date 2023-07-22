@@ -8,7 +8,7 @@
 </p>
 
 ## 💫 About Me
-🔭 I’m currently working on Reference Design Toolkit Video stack<br>👯 I’m looking to collaborate on Innovative Open Source Projects<br>🤝 I’m looking for help with Algorithmic thinking<br>🌱 I’m currently learning AI and DSA<br>💬 Ask me about Reference Design Toolkit, Thunder Framework, Data Models <br>📫 How to reach me: Connect with me on LinkedIn<br>😄 Pronouns: She/Her<br>⚡ Fun fact: Law of attraction believer, interested in Origami and Erasers collector.
+🔭 I’m currently working on Reference Design Toolkit Video stack<br>👯 I’m looking to collaborate on Innovative Open Source Projects<br>🤝 I’m looking for help with Algorithmic thinking<br>🌱 I’m currently learning AI and DSA<br>💬 Ask me about Reference Design Toolkit, Thunder Framework, Data Models <br>📫 How to reach me: Connect with me on LinkedIn<br>😄 Pronouns: She/Her<br>⚡ Fun fact: Passionate Erasers collector, Law of attraction believer and learning Origami
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Harini-Pavithra&limit=5&theme=dark&combine_all_yearly_contributions=true)
